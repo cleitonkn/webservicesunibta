@@ -16,12 +16,11 @@ h1 {
 nav#menu{
   display: block;
 }
-nav#menu image{
+nav#menu img{
   position: relative;
   top: 0px:
   left:10px;
 }
-
 nav#menu ul{
    list-style: none;
    text-transform: uppercase;
