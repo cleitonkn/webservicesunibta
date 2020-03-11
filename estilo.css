@@ -17,7 +17,7 @@ nav#menu{
   display: block;
 }
 nav#menu img{
-  position: relative;
+  position: absolute;
   top: -20px:
   left: 300px;
 }
