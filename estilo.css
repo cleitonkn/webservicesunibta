@@ -16,3 +16,8 @@
     .interface{
         padding:10px 4px;     
     } 
+    
+    /* Formataço do menu */
+  nav#menu ul{
+    list-style: none;
+  }
