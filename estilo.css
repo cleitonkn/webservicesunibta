@@ -1,2 +1,15 @@
 @charset "UTF-8";
 
+  p{
+      text-align: justify
+      text-indent: 50px 
+    }
+    
+    h1 {
+      color: black;    
+    }
+    h3{
+    }
+    .interface{
+        padding:10px 4px;     
+    } 
