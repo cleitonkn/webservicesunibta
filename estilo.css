@@ -22,11 +22,11 @@ nav#menu img{
   left:10px;
 }
 nav#menu ul{
-   list-style: none;
-   text-transform: uppercase;
-   position: absolute;
+  list-style: none;
+  text-transform: uppercase;
+  position: absolute;
   top: 0px;
-  left: 10px;
+  left: -10px;
   }
 nav#menu li{
   display: inline-block;
