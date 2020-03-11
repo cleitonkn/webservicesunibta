@@ -1,20 +1,18 @@
 @charset "UTF-8";
   
-body{
-  background-color: yellow 
-}
-
 p{
   text-align: justify
   text-indent: 50px 
 }
-    
 h1 {
   color: black;    
 }
 
 /* Formataço do menu */
 
+nav#menu{
+  display: block;
+}
 nav#menu ul{
    list-style: none;
    text-transform: uppercase;
