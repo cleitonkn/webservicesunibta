@@ -20,6 +20,8 @@ nav#menu ul{
    text-transform: uppercase;
   }
 nav#menu li{
-   display: inline-block;
-   background-color: #dddddd;
+  display: inline-block;
+  background-color: #dddddd;
+  padding: 20px;
+  margin: 20px;
   }
