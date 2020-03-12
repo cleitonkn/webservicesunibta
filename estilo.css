@@ -4,8 +4,9 @@ body{
   background-color: #07008f;
 }
 div#interface{
-  background-color: white;
   width: 300px;
+  background-color: white;
+  margin: 10px 10px 10px 10px;
   
 }
 p{
