@@ -35,6 +35,8 @@ nav#menu{
 nav#menu ul{
   list-style: none;
   text-transform: uppercase;
+  color: black;
+  font: 
   position: absolute;
   top: -30px;
   left: 200px;
