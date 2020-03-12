@@ -30,6 +30,7 @@ header#cabecalho{
 
 nav#menu{
   display: block;
+  top: 0px;
 }
 
 nav#menu ul{
