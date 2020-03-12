@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-  background-color: #07008f;
+  background-color: #ffffff;
   color: rgba(0,0,0,1);
 }
 
@@ -35,7 +35,7 @@ nav#menu{
 
 nav#menu ul{
   margin: 0;
-  background-color: #ffffff;
+  background-color: #07008f;
   list-style: none;
   text-transform: uppercase;
   top: 0px;
