@@ -37,9 +37,6 @@ nav#menu ul{
   background-color: #dddddd;
   list-style: none;
   text-transform: uppercase;
-  position: absolute;
-  top: -30px;
-  left: 200px;
   }
 
 nav#menu li{
