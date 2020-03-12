@@ -17,6 +17,11 @@ p{
 h1 {
   color: black;    
 }
+header#cabecalho{
+  border-bottom: 1px #606060 solid;
+  height: 150px;
+  background: url("unibta.webp") no-repeat;
+}
 
 /* Formataço do menu */
 
