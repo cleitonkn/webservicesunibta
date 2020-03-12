@@ -15,6 +15,7 @@ h1 {
 
 nav#menu{
   display: block;
+  background-color: #dddddd;
 }
 nav#menu img#unibta{
   position: absolute;
