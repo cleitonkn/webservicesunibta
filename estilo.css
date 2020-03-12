@@ -20,7 +20,7 @@ h1 {
 header#cabecalho{
   border-bottom: 1px #606060 solid;
   height: 80px;
-  background: url("unibta.webp") no-repeat 0px 0px;
+  background: url("unibta.webp") no-repeat 0px 100px;
 }
 
 /* Formataço do menu */
