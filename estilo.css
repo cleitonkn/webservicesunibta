@@ -20,6 +20,7 @@ h1 {
   color: black;    
 }
 header#cabecalho{
+  background-color: #dddddd;
   border-bottom: 1px #606060 solid;
   height: 80px;
   background: url("unibta.webp") no-repeat 0px 100px;
