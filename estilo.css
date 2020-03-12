@@ -23,6 +23,7 @@ nav#menu img#unibta{
   left: 0px;
 }
 nav#menu ul{
+  background-color: #dddddd;
   list-style: none;
   text-transform: uppercase;
   position: absolute;
