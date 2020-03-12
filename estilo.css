@@ -37,6 +37,7 @@ nav#menu ul{
   background-color: #dddddd;
   list-style: none;
   text-transform: uppercase;
+  top: 0px;
   }
 
 nav#menu li{
